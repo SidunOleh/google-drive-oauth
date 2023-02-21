@@ -1,0 +1,11 @@
+{
+    "name": "sidunoleh/google-drive-oauth",
+    "type": "library",
+    "version": "1.0.0",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "GoogleDriveOAuth\\": "src/"
+        }
+    }
+}
